@@ -7,3 +7,5 @@ tmp
 
 ## Directory-based project format:
 .idea/
+!/teamcity-course-cards.iml
+teamcity-course-cards.iml
